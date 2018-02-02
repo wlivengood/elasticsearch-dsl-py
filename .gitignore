@@ -8,7 +8,7 @@ build
 *.egg
 coverage.xml
 junit.xml
-test_elasticsearch_dsl/htmlcov
+test_elasticsearch_dsl6/htmlcov
 docs/_build
 .cache
 venv
